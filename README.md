@@ -8,3 +8,6 @@ visual studio 2019 community version에서 git과 gitHub 사용 테스트
 * local 폴더에서 원격지 등록
 * local commit 하고 push
 * gitHub에서 확인
+* gitHub에서 수정하고 로컬에서 확인하는 방법
+  - gitHub에서 수정
+  - local에서 git pull 실행
